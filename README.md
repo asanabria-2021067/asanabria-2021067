@@ -87,9 +87,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shahadat Hossain's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asanabria-2021067&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-![trophy](https://github-profile-trophy.vercel.app/?username=asanabria-2021067&row=1&no-bg=true)
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&theme=great-gatsby&layout=compact)](https://github.com/asanabria-2021067)
+<p><img title="Trophy" src="https://github-profile-trophy.vercel.app/?username=asanabria-2021067&row=1&no-bg=true"/></p>
+<p><img title="Github Status" src="[https://github-profile-trophy.vercel.app/?username=asanabria-2021067&row=1&no-bg=true](https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&count_private=true&theme=great-gatsby)"/></p></br>
+<p><img title="Top Langs" src="https://github-profile-trophy.vercel.app/?username=asanabria-2021067&row=1&no-bg=true](https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&theme=great-gatsby&layout=compact)"/></p>
 
 
 </p>        
