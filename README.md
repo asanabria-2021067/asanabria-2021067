@@ -8,7 +8,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 Ingeniería en Ciencias de la Computación y Tecnologias de la Información en la [Universidad del Valle](https://www.uvg.edu.gt).
+🎓 Ingeniería en Ciencias de la Computación y Tecnologias de la Información en la <a href="https://www.uvg.edu.gt"> Universidad del Valle de Guatemala</a>.
 
 🌱 Estudio habitualmente:  ** MERN Full Stack, REST API, Python y Flask Python **
 
