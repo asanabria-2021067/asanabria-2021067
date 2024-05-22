@@ -21,7 +21,7 @@
 <!--Intro end-->
   </p>
 <br>
-
+<br>
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 <h4> Languages </h4>
@@ -65,6 +65,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
 </span>
+<br>
 <br>
 <!-------------------------->
 <h2>GitHub :octocat:</h2>
