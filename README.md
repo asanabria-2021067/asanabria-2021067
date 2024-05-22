@@ -10,7 +10,7 @@
 <p align="left">
 🎓 Ingeniería en Ciencias de la Computación y Tecnologias de la Información en la <a href="https://www.uvg.edu.gt" target="_blank"> Universidad del Valle de Guatemala</a>.
 
-🌱 Estudio habitualmente:  ** MERN Full Stack, REST API, Python y Flask Python **
+🌱 Estudio habitualmente:  **MERN Full Stack, REST API, Python y Flask Python**
 
 📝 Me inspira construir cosas nuevas 👨🏻‍💻
 
