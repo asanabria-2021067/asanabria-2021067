@@ -15,7 +15,7 @@
 
 🌱 Estudio habitualmente:  ** MERN Full Stack, REST API, Python y Flask Python **
 
-📝 
+📝 Me inspira construir cosas nuevas 👨🏻‍💻
 
 📫 Contacto: **as1945228@gmail.com**
 <!--Intro end-->
