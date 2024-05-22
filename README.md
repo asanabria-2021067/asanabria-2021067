@@ -4,6 +4,7 @@
 <a href = "mailto:as1945228@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@angelsanabria"  /></a>
   </p>
 <br>
+<p><a href="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Un+desarrollador+con+pasion+al+programar"></a></p>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
@@ -88,9 +89,7 @@
     </a>
 </p>
 <p><img title="Trophy" src="https://github-profile-trophy.vercel.app/?username=asanabria-2021067&row=1&no-bg=true"/></p>
-<p><img title="Github Status" src="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&count_private=true&theme=great-gatsby"/> <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&theme=great-gatsby&layout=compact"/></p>
-<p></p>
+<p><img title="Github Status" src="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&count_private=true&theme=great-gatsby"/></p>
+<p><img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&theme=great-gatsby&layout=compact"/></p>
 
-
-</p>        
-<!--- stats (end) -->
+    
