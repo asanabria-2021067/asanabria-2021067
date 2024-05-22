@@ -1,8 +1,16 @@
 <h1 align="center">Hola 👋  soy Angel Sanabria ✨ </h1> 
 
-<a href="https://www.instagram.com/_angel.s.m_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@_angel.s.m_" /></a>
-<a href="https://www.linkedin.com/in/angel-sanabria-desarrollador/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="angel-sanabria"/></a>
-<a href = "mailto:as1945228@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@angelsanabria"  /></a>
+ <div align="center">
+        <a href="https://www.instagram.com/_angel.s.m_/" target="blank">
+            <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@_angel.s.m_" />
+        </a>
+        <a href="https://www.linkedin.com/in/angel-sanabria-desarrollador/" target="blank">
+            <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="angel-sanabria"/>
+        </a>
+        <a href="mailto:as1945228@gmail.com" target="blank">
+            <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@angelsanabria"  />
+        </a>
+    </div>
   </p>
 <br>
 <h2>Sobre mi 😃</h2>
@@ -10,8 +18,6 @@
 
 <p align="left">
 🎓 Ingeniería en Ciencias de la Computación y Tecnologias de la Información en la Universidad del Valle de Guatemala.
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
 
 🌱 Estudio habitualmente:  ** MERN Full Stack, REST API, Python y Flask Python **
 
