@@ -88,8 +88,8 @@
     </a>
 </p>
 <p><img title="Trophy" src="https://github-profile-trophy.vercel.app/?username=asanabria-2021067&row=1&no-bg=true"/></p>
-<p><img title="Github Status" src="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&count_private=true&theme=great-gatsby"/></p>
-<p><img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&theme=great-gatsby&layout=compact"/></p>
+<p><img title="Github Status" src="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&count_private=true&theme=great-gatsby"/> <img title="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&theme=great-gatsby&layout=compact"/></p>
+<p></p>
 
 
 </p>        
