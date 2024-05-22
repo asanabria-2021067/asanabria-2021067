@@ -4,7 +4,7 @@
 <a href = "mailto:as1945228@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@angelsanabria"  /></a>
   </p>
 <br>
-<p><img href="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Un+desarrollador+con+pasion+al+programar"></img></p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=Un+desarrollador+con+pasion+al+programar)]
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
