@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋  soy Angel Sanabria ✨ </h1> 
+<div align="center">
 <a href="https://www.instagram.com/_angel.s.m_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@_angel.s.m_" /></a>
 <a href="https://www.linkedin.com/in/angel-sanabria-desarrollador/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="angel-sanabria"/></a>
 <a href = "mailto:as1945228@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@angelsanabria"  /></a>
+</div>
   </p>
 <br>
 <p align="center">
