@@ -78,17 +78,12 @@ en la **Universidad del Valle de Guatemala**
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asanabria-2021067&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asanabria-2021067&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
 
 ---
 
