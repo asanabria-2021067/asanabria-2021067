@@ -76,14 +76,24 @@ en la **Universidad del Valle de Guatemala**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
+### 🔥 Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asanabria-2021067&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+### 📈 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asanabria-2021067&theme=tokyo-night&hide_border=true)
 
+---
+
+### 🧾 Profile Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asanabria-2021067&theme=tokyonight)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asanabria-2021067&theme=tokyonight)
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asanabria-2021067&theme=tokyonight)
 
 ---
 
