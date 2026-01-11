@@ -78,10 +78,7 @@ en la **Universidad del Valle de Guatemala**
 
 ## 📊 GitHub Stats
 
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asanabria-2021067&theme=tokyonight&hide_border=true)
 
 ---
 
