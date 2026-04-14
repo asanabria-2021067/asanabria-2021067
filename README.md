@@ -280,13 +280,4 @@ Scholarship management portal for the JBG Foundation.
 
 ---
 
-<div align="center">
-
-```
- ╔══════════════════════════════════════════════════╗
- ║  "Building things that scale.                   ║
- ║           Breaking things that don't."    ⚡    ║
- ╚══════════════════════════════════════════════════╝
-```
-
 </div>
