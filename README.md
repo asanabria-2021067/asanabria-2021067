@@ -15,12 +15,41 @@
 ---
 
 ```yaml
-name: Angel Sanabria
-location: Guatemala 🇬🇹
-education: Computer Science & IT Engineering @ Universidad del Valle de Guatemala
-role: Full Stack Developer | Junior Infrastructure Engineer
+# ─── whoami ───────────────────────────────────────────────
+name:       Angel Sanabria
+location:   Guatemala City, GT 🇬🇹
+education:  CS & IT Engineering @ Universidad del Valle de Guatemala
+scholarship: Juan Bautista Gutiérrez Foundation
+
+# ─── what I do ────────────────────────────────────────────
+roles:
+  - Full Stack Developer
+  - Junior Infrastructure Engineer @ Grupo Quattro
+  - Freelance Full Stack Engineer
+
+stack:
+  frontend:  [ "Next.js", "React", "Tailwind CSS" ]
+  backend:   [ "NestJS", "Django", "Express", "Flask" ]
+  infra:     [ "Docker", "Kubernetes", "VMware VCF", "Azure CI/CD" ]
+  databases: [ "PostgreSQL", "MongoDB", "Redis" ]
+  languages: [ "TypeScript", "Python", "Go", "Java" ]
+
 currently_learning: [ "Vue.js" ]
-interests: [ "Distributed Systems", "Cloud Infrastructure", "DevOps" ]
+
+# ─── certifications ───────────────────────────────────────
+certs:
+  - VMware Cloud Foundation (VCF)
+  - VMware vSphere with Tanzu
+  - Cisco CCNA
+  - Frontend Masters (multiple courses)
+
+# ─── featured projects ────────────────────────────────────
+projects:
+  shifu:         "AI productivity assistant — 20+ API integrations"
+  rubik:         "VMware vSphere monitoring — Django, Next.js, Redis, Celery"
+  uvg_collab:    "University collaboration platform — NestJS, Next.js, PostgreSQL"
+  portal_asigbo: "Scholarship management portal — Node.js, React, MongoDB"
+
 fun_fact: "I debug with console.log and I'm not ashamed"
 ```
 
@@ -106,20 +135,82 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 
 ---
 
-## 📊 GitHub Analytics
+## 🏅 Certifications
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&ring_color=70A5FD" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8" />
+![VMware VCF](https://img.shields.io/badge/VMware_Cloud_Foundation-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware Tanzu](https://img.shields.io/badge/vSphere_with_Tanzu-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Cisco CCNA](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Frontend Masters](https://img.shields.io/badge/Frontend_Masters-CC6699?style=for-the-badge&logo=frontendmentor&logoColor=white)
 
 </div>
+
+---
+
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Shifu
+AI productivity assistant with **20+ API integrations**.
+Built to automate workflows and boost efficiency.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Rubik
+VMware vSphere monitoring platform.
+**Django · Next.js · Redis · Celery Beat** — with a Claude-powered AI assistant.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 UVG-Collab
+University collaboration platform.
+**NestJS · Next.js · PostgreSQL · Prisma** — monorepo with 34-entity schema.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏫 Portal ASIGBO
+Scholarship management portal for the JBG Foundation.
+**Node.js · React · MongoDB Atlas**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&ring_color=70A5FD" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&theme=default&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&ring_color=70A5FD" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8" />
+  </picture>
+</div>
+
+<br>
 
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asanabria-2021067&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD)
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -133,7 +224,7 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=asanabria-2021067&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=asanabria-2021067&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -141,14 +232,11 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/asanabria-2021067/asanabria-2021067/output/github-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-⚡ *Building things that scale. Breaking things that don't.* ⚡
+```
+ ╔══════════════════════════════════════════════════╗
+ ║  "Building things that scale.                   ║
+ ║           Breaking things that don't."    ⚡    ║
+ ╚══════════════════════════════════════════════════╝
+```
 
 </div>
