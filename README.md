@@ -1,6 +1,6 @@
 <div align="center">
 
-# &lt;img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"&gt; Hey, I'm **Angel Sanabria**
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> Hey, I'm <b>Angel Sanabria</b></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Infrastructure+Engineer;Building+scalable+systems;Always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
 
