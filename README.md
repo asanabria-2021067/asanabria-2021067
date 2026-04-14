@@ -52,7 +52,6 @@ projects:
   smart_agri:    "IoT automated plant watering — Node.js, OpenAI, Google Sheets"
   portal_asigbo: "Scholarship management portal — Node.js, React, MongoDB"
 
-fun_fact: "I debug with console.log and I'm not ashamed"
 ```
 
 ---
