@@ -45,9 +45,11 @@ certs:
 
 # ─── featured projects ────────────────────────────────────
 projects:
+  waterway_plus: "1st Place Hackathon — Motagua river protection with maps & AI"
+  seasos:        "Marine life care app (ODS 14) — Flask, React, MongoDB, Pandas"
   shifu:         "AI productivity assistant — 20+ API integrations"
-  rubik:         "VMware vSphere monitoring — Django, Next.js, Redis, Celery"
   uvg_collab:    "University collaboration platform — NestJS, Next.js, PostgreSQL"
+  smart_agri:    "IoT automated plant watering — Node.js, OpenAI, Google Sheets"
   portal_asigbo: "Scholarship management portal — Node.js, React, MongoDB"
 
 fun_fact: "I debug with console.log and I'm not ashamed"
@@ -148,9 +150,32 @@ fun_fact: "I debug with console.log and I'm not ashamed"
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Projects & Experience
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 WaterWay+
+**1st Place — Hackathon Red Copernicus SENACYT**
+Web platform for Motagua river protection using interactive maps, satellite data, and AI.
+**MERN Stack**
+
+[![Frontend](https://img.shields.io/badge/Frontend-000?style=flat-square&logo=github&logoColor=white)](https://github.com/kinalitos/waterway-frontend)
+[![Backend](https://img.shields.io/badge/Backend-000?style=flat-square&logo=github&logoColor=white)](https://github.com/kinalitos/waterway-backend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌊 SeaSOS
+Full Stack application dedicated to marine life care (ODS 14).
+Data visualization using Pandas.
+**Python Flask · React.js · MongoDB**
+
+[![Frontend](https://img.shields.io/badge/Frontend-000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ciencias-de-la-vida/seasos-front)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -161,25 +186,43 @@ Built to automate workflows and boost efficiency.
 </td>
 <td width="50%" valign="top">
 
-### 📊 Rubik
-VMware vSphere monitoring platform.
-**Django · Next.js · Redis · Celery Beat** — with a Claude-powered AI assistant.
+### 🎓 UVG-Collab
+University collaboration platform.
+**NestJS · Next.js · PostgreSQL · Prisma** — monorepo with 34-entity schema.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 UVG-Collab
-University collaboration platform.
-**NestJS · Next.js · PostgreSQL · Prisma** — monorepo with 34-entity schema.
+### 🧪 Portal Química
+Chemistry learning portal with interactive tools.
+**React · Node.js**
+
+[![Frontend](https://img.shields.io/badge/Frontend-000?style=flat-square&logo=github&logoColor=white)](https://github.com/asanabria-2021067/frontend-quimica)
+[![Backend](https://img.shields.io/badge/Backend-000?style=flat-square&logo=github&logoColor=white)](https://github.com/asanabria-2021067/chemiq-backend)
 
 </td>
+<td width="50%" valign="top">
+
+### 🌱 Smart Agriculture IoT
+Automated plant watering system with IoT arm.
+**Node.js · OpenAI · Google Sheets**
+
+[![Frontend](https://img.shields.io/badge/Frontend-000?style=flat-square&logo=github&logoColor=white)](https://github.com/asanabria-2021067/Smart-Agriculture-FRONTEND-Node.js-OpenAI-Google-Sheets)
+[![Backend](https://img.shields.io/badge/Backend-000?style=flat-square&logo=github&logoColor=white)](https://github.com/asanabria-2021067/Smart-Agriculture-Backend)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏫 Portal ASIGBO
 Scholarship management portal for the JBG Foundation.
 **Node.js · React · MongoDB Atlas**
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -190,16 +233,23 @@ Scholarship management portal for the JBG Foundation.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&ring_color=70A5FD" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&theme=default&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asanabria-2021067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=C9D1D9&ring_color=70A5FD" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asanabria-2021067&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&langs_count=8" />
-  </picture>
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asanabria-2021067&theme=2077)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asanabria-2021067&theme=2077)
+
+</div>
+
+<div align="center">
+
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asanabria-2021067&theme=2077)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asanabria-2021067&theme=2077&utcOffset=-6)
+
+</div>
+
+<div align="center">
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asanabria-2021067&theme=2077)](https://github.com/asanabria-2021067)
+
 </div>
 
 <br>
@@ -224,7 +274,7 @@ Scholarship management portal for the JBG Foundation.
 
 ### 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=asanabria-2021067&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=asanabria-2021067&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
