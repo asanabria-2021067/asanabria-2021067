@@ -276,8 +276,6 @@ Scholarship management portal for the JBG Foundation.
 [![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=asanabria-2021067&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
-[![My GitFut card](https://gitfut.com/asanabria-2021067.png)](https://gitfut.com/asanabria-2021067)
 ---
 
 </div>
