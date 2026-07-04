@@ -277,13 +277,8 @@ Scholarship management portal for the JBG Foundation.
 
 </div>
 ---
-<style>
-  #card {
-    height: 200px;
-    overflow: auto;
-  }
-</style>
-<div id="card" align="center" >
+
+<div align="center" style="max-height: 200px;" >
 
 [![My GitFut card](https://gitfut.com/asanabria-2021067.png)](https://gitfut.com/asanabria-2021067)
 
