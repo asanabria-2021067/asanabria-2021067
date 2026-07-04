@@ -278,9 +278,9 @@ Scholarship management portal for the JBG Foundation.
 </div>
 ---
 
-<div align="center" style="max-height: 200px;" >
+<div align="center">
 
-[![My GitFut card](https://gitfut.com/asanabria-2021067.png)](https://gitfut.com/asanabria-2021067)
+<a href="https://gitfut.com/asanabria-2021067"><img src="https://gitfut.com/asanabria-2021067.png?country=GT" width="150" alt="Mi GitFut card"></a>
 
 </div>
 
