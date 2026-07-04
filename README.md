@@ -280,7 +280,7 @@ Scholarship management portal for the JBG Foundation.
 
 <div align="center">
 
-<a href="https://gitfut.com/asanabria-2021067"><img src="https://gitfut.com/asanabria-2021067.png?country=GT" width="150" alt="Mi GitFut card"></a>
+<a href="https://gitfut.com/asanabria-2021067"><img src="https://gitfut.com/asanabria-2021067.png?country=GT" width="250" alt="Mi GitFut card"></a>
 
 </div>
 
