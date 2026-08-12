@@ -271,22 +271,12 @@ Scholarship management portal for the JBG Foundation.
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=asanabria-2021067&theme=radical&column=6&margin-w=10&margin-h=10&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-### 👾 Contribution Graph
+### 🚀 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asanabria-2021067/asanabria-2021067/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asanabria-2021067/asanabria-2021067/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/asanabria-2021067/asanabria-2021067/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asanabria-2021067/asanabria-2021067/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asanabria-2021067/asanabria-2021067/output/galaga-contribution-graph.svg" />
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/asanabria-2021067/asanabria-2021067/output/galaga-contribution-graph.svg" />
 </picture>
 
 </div>
