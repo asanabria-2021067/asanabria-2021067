@@ -273,9 +273,24 @@ Scholarship management portal for the JBG Foundation.
 
 ### 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy-tawny.vercel.app/?username=asanabria-2021067&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=asanabria-2021067&theme=radical&column=6&margin-w=10&margin-h=10&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+---
+
+<div align="center">
+
+### 👾 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asanabria-2021067/asanabria-2021067/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asanabria-2021067/asanabria-2021067/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/asanabria-2021067/asanabria-2021067/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 <div align="center">
