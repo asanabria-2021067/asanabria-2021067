@@ -1,8 +1,8 @@
-name: Generate Snake Animation
+name: Generate Arcade Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -10,22 +10,21 @@ on:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
     permissions:
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
     steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate contribution graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=#70A5FD&color_dots=#161B22,#0e4429,#006d32,#26a641,#39d353
+          games: 'galaga'
+          hide_month_labels: 'false'
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
